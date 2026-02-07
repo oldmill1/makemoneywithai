@@ -2,6 +2,7 @@
 title: "Introducing Woz"
 date: 2026-02-07
 description: "My personal CTO, and how I built a better way to work"
+type: post
 ---
 
 I've spent the last few months building something that I think solves a real problem: the friction between the work I *want* to do and the work I *have* to do.
