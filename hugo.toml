@@ -1,7 +1,7 @@
 baseURL = "https://oldmill1.github.io/makemoneywithai/"
 languageCode = "en-us"
 title = "Make Money with AI"
-theme = "ananke"
+theme = "gokarna"
 
 [params]
   description = "Learn from the master.... Max Levy"
