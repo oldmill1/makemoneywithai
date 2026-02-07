@@ -1,0 +1,11 @@
+baseURL = "https://yourusername.github.io/makemoneywithai/"
+languageCode = "en-us"
+title = "Make Money with AI"
+theme = "ananke"
+
+[params]
+  description = "Learn from the master.... Max Levy"
+  author = "Max Levy"
+  
+[outputs]
+  home = ["HTML"]
